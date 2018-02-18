@@ -1,0 +1,8 @@
+Package: com.simalary.powerapp
+Name: Imperium
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Chris Harper
+Author: Chris Harper
+Section: Utilities
